@@ -105,11 +105,5 @@ FitterHappierText.defaultProps = {
   paddingY: 0
 };
 
-FitterHappierText.propTypes = {
-  text: _react2['default'].PropTypes.string,
-  baseline: _react2['default'].PropTypes.number,
-  paddingY: _react2['default'].PropTypes.number
-};
-
 exports['default'] = FitterHappierText;
 module.exports = exports['default'];
